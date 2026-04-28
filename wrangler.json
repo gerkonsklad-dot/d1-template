@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "25752208-7a06-442b-a3d8-9f3d7fa95030",
+			"database_name": "sklad-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
